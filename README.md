@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on SwiftUI and UIKit projects
 - ✋🏽 Ask me about Swift, SwiftUI, UIKit, Xcode
 - 📫 Connect with me: @aliufemi on Twitter and https://www.linkedin.com/in/femialiu/ on LinkedIn or just shoot me an email: femialiu713@gmail.com 
+- 🚅 Transitioning from a career in building construction to a career in tech
 
 <!---
 femialiu/femialiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
