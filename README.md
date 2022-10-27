@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Femi Aliu
+- 📱 I’m an iOS Developer
+- 🔎 I’m looking to find my first position as an iOS developer
+- 🌱 I’m currently building my iOS porfolio
+- 👨🏽‍💻 I work primarily with Swift, SwiftUI, and UIKit
+- 💞️ I’m looking to collaborate on SwiftUI and UIKit projects
+- ✋🏽 Ask me about Swift, SwiftUI, UIKit, Xcode
+- 📫 Connect with me: @aliufemi on Twitter and https://www.linkedin.com/in/femialiu/ on LinkedIn or just shoot me an email: femialiu713@gmail.com 
+
+<!---
+femialiu/femialiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
