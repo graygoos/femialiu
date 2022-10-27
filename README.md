@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Femi Aliu
-- 📱 I’m an iOS Developer
+# 👋 Hi, I’m Femi Aliu
+## 📱 I’m an iOS Developer
 - 🔎 I’m looking to find my first position as an iOS developer
 - 🌱 I’m currently building my iOS porfolio
 - 👨🏽‍💻 I work primarily with Swift, SwiftUI, and UIKit
