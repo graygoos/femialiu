@@ -5,7 +5,7 @@
 - 👨🏽‍💻 I work primarily with Swift, UIKit, and SwiftUI
 - 💞️ I’m looking to collaborate on SwiftUI and UIKit projects
 - ✋🏽 Ask me about Swift, Xcode, SwiftUI, UIKit
-- 📫 Connect with me: https://www.linkedin.com/in/femialiu/ on LinkedIn and https://www.twitter.com/aliufemi on Twitter or just shoot me an email: <femialiu713@gmail.com> 
+- 📫 Connect with me: https://www.linkedin.com/in/femialiu/ on LinkedIn or https://www.twitter.com/aliufemi on Twitter or just shoot me an email: <femialiu713@gmail.com> 
 - 🚅 Transitioning from a career in building construction to a career in tech
 
 <!---
